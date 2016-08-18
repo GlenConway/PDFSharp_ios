@@ -31,7 +31,6 @@
 using System;
 using System.Diagnostics;
 using System.Collections;
-using System.Linq;
 using System.Text;
 using System.IO;
 #if GDI

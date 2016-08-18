@@ -226,9 +226,9 @@ namespace PdfSharp.Drawing
     }
     int pageCount = -1;
 
-    /// <summary>
-    /// Gets the width in point of the page identified by the property PageNumber.
-    /// </summary>
+    ///// <summary>
+    ///// Gets the width in point of the page identified by the property PageNumber.
+    ///// </summary>
     //[Obsolete("Use either PixelWidth or PointWidth. Temporarily obsolete because of rearrangements for WPF.")]
     //public override double Width
     //{
@@ -239,9 +239,9 @@ namespace PdfSharp.Drawing
     //  }
     //}
 
-    /// <summary>
-    /// Gets the height in point of the page identified by the property PageNumber.
-    /// </summary>
+    ///// <summary>
+    ///// Gets the height in point of the page identified by the property PageNumber.
+    ///// </summary>
     //[Obsolete("Use either PixelHeight or PointHeight. Temporarily obsolete because of rearrangements for WPF.")]
     //public override double Height
     //{

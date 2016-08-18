@@ -534,9 +534,9 @@ namespace PdfSharp.Drawing
     bool disposed;
 
 
-    /// <summary>
-    /// Gets the width of the image.
-    /// </summary>
+    ///// <summary>
+    ///// Gets the width of the image.
+    ///// </summary>
 //    [Obsolete("Use either PixelWidth or PointWidth. Temporarily obsolete because of rearrangements for WPF. Currently same as PixelWidth, but will become PointWidth in future releases of PDFsharp.")]
 //    public virtual double Width
 //    {
@@ -562,9 +562,9 @@ namespace PdfSharp.Drawing
 //      }
 //    }
 
-    /// <summary>
-    /// Gets the height of the image.
-    /// </summary>
+    ///// <summary>
+    ///// Gets the height of the image.
+    ///// </summary>
 //    [Obsolete("Use either PixelHeight or PointHeight. Temporarily obsolete because of rearrangements for WPF. Currently same as PixelHeight, but will become PointHeight in future releases of PDFsharp.")]
 //    public virtual double Height
 //    {

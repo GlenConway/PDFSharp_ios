@@ -298,9 +298,9 @@ namespace PdfSharp.Drawing
     }
     internal FormState formState;
 
-    /// <summary>
-    /// Get the width of the page identified by the property PageNumber.
-    /// </summary>
+    ///// <summary>
+    ///// Get the width of the page identified by the property PageNumber.
+    ///// </summary>
     //[Obsolete("Use either PixelWidth or PointWidth. Temporarily obsolete because of rearrangements for WPF. Currently same as PixelWidth, but will become PointWidth in future releases of PDFsharp.")]
     //public override double Width
     //{
@@ -308,9 +308,9 @@ namespace PdfSharp.Drawing
     //  get { return this.viewBox.Width; }
     //}
 
-    /// <summary>
-    /// Get the width of the page identified by the property PageNumber.
-    /// </summary>
+    ///// <summary>
+    ///// Get the width of the page identified by the property PageNumber.
+    ///// </summary>
     //[Obsolete("Use either PixelHeight or PointHeight. Temporarily obsolete because of rearrangements for WPF. Currently same as PixelHeight, but will become PointHeight in future releases of PDFsharp.")]
     //public override double Height
     //{
